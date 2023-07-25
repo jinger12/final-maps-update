@@ -1,7 +1,7 @@
 This research builds upon the outcomes of a class project undertaken in DS 5110, with collaborators Jeff Cuartas and Yuan Kuang, and incorporates insights from prior projects executed in DS5010.
 
 # Findings
-Our study has facilitated the identification of key areas where the Maine Connectivity Authority (MCA) should direct infrastructure investment. These critical zones, characterized by an infrastructure larger than a relative cultural score, have been delineated in darker red in the visual aid.
+Our study has facilitated the identification of key areas where the Maine Connectivity Authority (MCA) should direct infrastructure investment. These critical zones, characterized by an infrastructure score larger than a relative cultural score, have been delineated in darker red in the visual aid. Areas with infrastructure scores larger than cultural score are areas where improved infrastructure is needed.
 
 ```
 make infapop
