@@ -1,7 +1,11 @@
 This research builds upon the outcomes of a class project undertaken in DS 5110, with collaborators Jeff Cuartas and Yuan Kuang, and incorporates insights from prior projects executed in DS5010.
 
 # Findings
-Our study has facilitated the identification of key areas where the Maine Connectivity Authority (MCA) should direct infrastructure investment. These critical zones, characterized by an infrastructure score larger than a relative cultural score, have been delineated in darker red in the visual aid. Areas with infrastructure scores larger than cultural score are areas where improved infrastructure is needed.
+Our study has facilitated the identification of key areas where the Maine Connectivity Authority (MCA) should direct infrastructure investment. These critical zones, characterized by an infrastructure score larger than a relative cultural score, have been delineated in darker red in the visual aid. 
+
+If an area has an infrastructure score that is larger than its cultural score, it results in a positive value. This indicates that the infrastructure in the area needs improvement. This means the infrastructure score isn't as high as it should be in relation to the cultural score. 
+
+On the other hand, areas that have a negative value, shown in green, are in need of digital literacy improvement. This suggests that the cultural score of these areas is larger than the infrastructure score. The use of the term 'cultural score' here likely refers to an area's capacity to use and interact with digital technologies, including the general population's digital literacy.
 
 ```
 make infapop
