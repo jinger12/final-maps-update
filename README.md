@@ -1,4 +1,4 @@
-This research builds upon the outcomes of a class project undertaken in DS 5110, which creates a Maine-specific Digital Divide Index (DDI) with collaborators Jeff Cuartas and Yuan Kuang. This was study was based on [Purdue University's Center for Regional Development Digital Divide Index](https://storymaps.arcgis.com/stories/8ad45c48ba5c43d8ad36240ff0ea0dc7)and incorporates insights and work from a [project done in DS 5010](http:ds5010.github.io/broadband-3).
+This research builds upon the outcomes of a class project undertaken in DS 5110, which creates a Maine-specific Digital Divide Index (DDI) with collaborators Jeff Cuartas and Yuan Kuang. This was study was based on [Purdue University's Center for Regional Development Digital Divide Index](https://storymaps.arcgis.com/stories/8ad45c48ba5c43d8ad36240ff0ea0dc7) and incorporates insights and work from a [project done in DS 5010](http:ds5010.github.io/broadband-3).
 
 
 
